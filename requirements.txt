@@ -1,8 +1,4 @@
 streamlit
-opencv-python
+opencv-python-headless
 numpy
 tensorflow
-# requests
-# time
-# json
-# paho.mqtt
